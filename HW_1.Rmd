@@ -1,0 +1,36 @@
+title: "Introduction to Biomedical Data Science / HOMEWORK 1"
+author: "Sude Yaren ÖZTÜRK"
+Date: "2022-24-12"
+Output: 
+   html.document:
+      toc: true
+      toc_float: true
+      toc_depth: 2
+      
+#HEADİNG 1
+
+The molecular biology is cool because:
+ - We can research a *everything*.
+ - We are a **scientist**.
+ - Biology is a *mysterious power of life*.
+ 
+ ![](https://media.giphy.com/media/6YcJ1TwjQnl0yFF9lE/giphy.gif)
+#HEADİNG 2
+
+```{r eval=FALSE}
+
+#2 plus 2 equals to 4
+print(2+2)
+
+```
+
+#HEADİNG 3
+
+```{r}
+plot(pressure)
+
+```
+ 
+ 
+ 
+
